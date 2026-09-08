@@ -81,25 +81,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Addie3000/Threatmodelling">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Addie3000&repo=Threatmodelling&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Addie3000/QRcodeproject">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Addie3000&repo=QRcodeproject&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Addie3000/webdev-solutions-site">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Addie3000&repo=webdev-solutions-site&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=100&section=footer" />
 </p>
